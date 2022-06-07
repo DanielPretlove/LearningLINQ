@@ -1,0 +1,15 @@
+E:\Programming_Tasks\C# Projects\Features\Queries\bin\Debug\net6.0\Queries.exe
+E:\Programming_Tasks\C# Projects\Features\Queries\bin\Debug\net6.0\Queries.deps.json
+E:\Programming_Tasks\C# Projects\Features\Queries\bin\Debug\net6.0\Queries.runtimeconfig.json
+E:\Programming_Tasks\C# Projects\Features\Queries\bin\Debug\net6.0\Queries.dll
+E:\Programming_Tasks\C# Projects\Features\Queries\bin\Debug\net6.0\ref\Queries.dll
+E:\Programming_Tasks\C# Projects\Features\Queries\bin\Debug\net6.0\Queries.pdb
+E:\Programming_Tasks\C# Projects\Features\Queries\obj\Debug\net6.0\Queries.csproj.AssemblyReference.cache
+E:\Programming_Tasks\C# Projects\Features\Queries\obj\Debug\net6.0\Queries.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming_Tasks\C# Projects\Features\Queries\obj\Debug\net6.0\Queries.AssemblyInfoInputs.cache
+E:\Programming_Tasks\C# Projects\Features\Queries\obj\Debug\net6.0\Queries.AssemblyInfo.cs
+E:\Programming_Tasks\C# Projects\Features\Queries\obj\Debug\net6.0\Queries.csproj.CoreCompileInputs.cache
+E:\Programming_Tasks\C# Projects\Features\Queries\obj\Debug\net6.0\Queries.dll
+E:\Programming_Tasks\C# Projects\Features\Queries\obj\Debug\net6.0\ref\Queries.dll
+E:\Programming_Tasks\C# Projects\Features\Queries\obj\Debug\net6.0\Queries.pdb
+E:\Programming_Tasks\C# Projects\Features\Queries\obj\Debug\net6.0\Queries.genruntimeconfig.cache

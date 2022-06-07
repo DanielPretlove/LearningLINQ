@@ -1,0 +1,17 @@
+E:\Programming_Tasks\C# Projects\Features\Cars\bin\Debug\net6.0\fuel.csv
+E:\Programming_Tasks\C# Projects\Features\Cars\bin\Debug\net6.0\Cars.exe
+E:\Programming_Tasks\C# Projects\Features\Cars\bin\Debug\net6.0\Cars.deps.json
+E:\Programming_Tasks\C# Projects\Features\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+E:\Programming_Tasks\C# Projects\Features\Cars\bin\Debug\net6.0\Cars.dll
+E:\Programming_Tasks\C# Projects\Features\Cars\bin\Debug\net6.0\ref\Cars.dll
+E:\Programming_Tasks\C# Projects\Features\Cars\bin\Debug\net6.0\Cars.pdb
+E:\Programming_Tasks\C# Projects\Features\Cars\obj\Debug\net6.0\Cars.csproj.AssemblyReference.cache
+E:\Programming_Tasks\C# Projects\Features\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming_Tasks\C# Projects\Features\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+E:\Programming_Tasks\C# Projects\Features\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+E:\Programming_Tasks\C# Projects\Features\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+E:\Programming_Tasks\C# Projects\Features\Cars\obj\Debug\net6.0\Cars.dll
+E:\Programming_Tasks\C# Projects\Features\Cars\obj\Debug\net6.0\ref\Cars.dll
+E:\Programming_Tasks\C# Projects\Features\Cars\obj\Debug\net6.0\Cars.pdb
+E:\Programming_Tasks\C# Projects\Features\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+E:\Programming_Tasks\C# Projects\Features\Cars\bin\Debug\net6.0\manufacturers.csv

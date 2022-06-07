@@ -1,0 +1,15 @@
+E:\Programming_Tasks\C# Projects\Features\Features\bin\Debug\net6.0\Features.exe
+E:\Programming_Tasks\C# Projects\Features\Features\bin\Debug\net6.0\Features.deps.json
+E:\Programming_Tasks\C# Projects\Features\Features\bin\Debug\net6.0\Features.runtimeconfig.json
+E:\Programming_Tasks\C# Projects\Features\Features\bin\Debug\net6.0\Features.dll
+E:\Programming_Tasks\C# Projects\Features\Features\bin\Debug\net6.0\ref\Features.dll
+E:\Programming_Tasks\C# Projects\Features\Features\bin\Debug\net6.0\Features.pdb
+E:\Programming_Tasks\C# Projects\Features\Features\obj\Debug\net6.0\Features.csproj.AssemblyReference.cache
+E:\Programming_Tasks\C# Projects\Features\Features\obj\Debug\net6.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming_Tasks\C# Projects\Features\Features\obj\Debug\net6.0\Features.AssemblyInfoInputs.cache
+E:\Programming_Tasks\C# Projects\Features\Features\obj\Debug\net6.0\Features.AssemblyInfo.cs
+E:\Programming_Tasks\C# Projects\Features\Features\obj\Debug\net6.0\Features.csproj.CoreCompileInputs.cache
+E:\Programming_Tasks\C# Projects\Features\Features\obj\Debug\net6.0\Features.dll
+E:\Programming_Tasks\C# Projects\Features\Features\obj\Debug\net6.0\ref\Features.dll
+E:\Programming_Tasks\C# Projects\Features\Features\obj\Debug\net6.0\Features.pdb
+E:\Programming_Tasks\C# Projects\Features\Features\obj\Debug\net6.0\Features.genruntimeconfig.cache

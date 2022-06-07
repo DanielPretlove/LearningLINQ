@@ -1,0 +1,1208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Car xmlns="http://pluralsight.com/cars/2016">
+  <Car Name="4C" Combined="34" Manufacturer="ALFA ROMEO" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="V12 Vantage S" Combined="18" Manufacturer="Aston Martin Lagonda Ltd" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="V8 Vantage" Combined="21" Manufacturer="Aston Martin Lagonda Ltd" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="V8 Vantage" Combined="19" Manufacturer="Aston Martin Lagonda Ltd" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="V8 Vantage S" Combined="21" Manufacturer="Aston Martin Lagonda Ltd" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="V8 Vantage S" Combined="19" Manufacturer="Aston Martin Lagonda Ltd" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Vantage GT" Combined="21" Manufacturer="Aston Martin Lagonda Ltd" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Vantage GT" Combined="19" Manufacturer="Aston Martin Lagonda Ltd" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TT Roadster quattro" Combined="30" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M4 GTS" Combined="23" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Z4 sDrive28i" Combined="33" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Z4 sDrive28i" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Z4 sDrive35i" Combined="24" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Z4 sDrive35is" Combined="24" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CORVETTE" Combined="23" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CORVETTE" Combined="29" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CORVETTE" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CORVETTE" Combined="29" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Viper SRT" Combined="21" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="488 GTB" Combined="22" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="488 GTB" Combined="22" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F12" Combined="16" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F12" Combined="16" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F12 tdf" Combined="17" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F12 tdf" Combined="15" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F60 America" Combined="15" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F60 America" Combined="15" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CR-Z" Combined="39" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CR-Z" Combined="38" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE Convertible" Combined="28" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE Convertible Manual" Combined="24" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE Coupe" Combined="28" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE Coupe Manual" Combined="24" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE R AWD Convertible" Combined="23" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE R AWD Coupe" Combined="23" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE R Convertible" Combined="23" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE S AWD Convertible" Combined="26" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE S AWD Coupe" Combined="26" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE S Convertible" Combined="27" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE S Convertible Manual" Combined="24" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE S Coupe" Combined="27" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F-TYPE S Coupe Manual" Combined="24" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Aventador Coupe" Combined="18" Manufacturer="Lamborghini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Aventador Roadster" Combined="17" Manufacturer="Lamborghini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Huracan" Combined="21" Manufacturer="Lamborghini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Huracan Spyder" Combined="20" Manufacturer="Lamborghini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MX-5" Combined="36" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MX-5" Combined="34" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="570S Coupe" Combined="23" Manufacturer="McLaren" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="650S Coupe" Combined="22" Manufacturer="McLaren" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="650S Spider" Combined="22" Manufacturer="McLaren" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="675LT Coupe" Combined="22" Manufacturer="McLaren" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG GT S" Combined="22" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG SL 63" Combined="25" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG SL 65" Combined="21" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG SLK 55" Combined="28" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SL 400" Combined="27" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SL 550" Combined="24" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SLK 300" Combined="32" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SLK 350" Combined="29" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Smart fortwo (COUPE)" Combined="39" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Smart fortwo (COUPE)" Combined="39" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="370Z" Combined="26" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="370Z" Combined="26" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="370Z Roadster" Combined="25" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="370Z Roadster" Combined="24" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Huayra Coupe" Combined="17" Manufacturer="Pagani Automobili S.p.A." xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 GT3" Combined="20" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 GT3RS" Combined="20" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Boxster" Combined="32" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Boxster" Combined="30" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Boxster GTS" Combined="31" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Boxster GTS" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Boxster S" Combined="30" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Boxster S" Combined="28" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Boxster Spyder" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayman" Combined="32" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayman" Combined="30" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayman GT4" Combined="23" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayman GTS" Combined="31" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayman GTS" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayman S" Combined="30" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayman S" Combined="28" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="DB9" Combined="19" Manufacturer="Aston Martin Lagonda Ltd" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Vanquish" Combined="21" Manufacturer="Aston Martin Lagonda Ltd" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="California T" Combined="23" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="California T" Combined="23" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="500" Combined="32" Manufacturer="FIAT" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="500" Combined="34" Manufacturer="FIAT" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="500" Combined="34" Manufacturer="FIAT" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="500" Combined="40" Manufacturer="FIAT" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="500 Abarth" Combined="32" Manufacturer="FIAT" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="500 Abarth" Combined="34" Manufacturer="FIAT" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper Convertible" Combined="37" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper Convertible" Combined="38" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Convertible" Combined="34" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Convertible" Combined="33" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera" Combined="28" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera" Combined="27" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4" Combined="28" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4" Combined="27" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4 Cabriolet" Combined="27" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4 Cabriolet" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4 GTS" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4 GTS" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4 GTS Cabriolet" Combined="25" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4 GTS Cabriolet" Combined="25" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4S" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4S" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4S Cabriolet" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera 4S Cabriolet" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera Cabriolet" Combined="28" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera Cabriolet" Combined="27" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera GTS" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera GTS" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera GTS Cabriolet" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera GTS Cabriolet" Combined="25" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera S" Combined="27" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera S" Combined="27" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera S Cabriolet" Combined="27" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Carrera S Cabriolet" Combined="27" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Targa 4" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Targa 4" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Targa 4 GTS" Combined="25" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Targa 4 GTS" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Targa 4S" Combined="25" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Targa 4S" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Turbo" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Turbo Cabriolet" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Turbo S" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="911 Turbo S Cabriolet" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FR-S" Combined="34" Manufacturer="SCION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FR-S" Combined="30" Manufacturer="SCION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="BRZ" Combined="34" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="BRZ" Combined="30" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Rapide S" Combined="22" Manufacturer="Aston Martin Lagonda Ltd" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A3" Combined="33" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A3 Cabriolet" Combined="35" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A3 Cabriolet quattro" Combined="32" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A3 quattro" Combined="33" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A5 Cabriolet quattro" Combined="29" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A5 quattro" Combined="30" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A5 quattro" Combined="32" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S3" Combined="31" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S5" Combined="28" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S5" Combined="26" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S5 Cabriolet" Combined="26" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TT Coupe quattro" Combined="30" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TTS Coupe" Combined="27" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Continental GT Convertible" Combined="24" Manufacturer="Bentley" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Continental GT Convertible" Combined="20" Manufacturer="Bentley" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="228i" Combined="35" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="228i" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="228i Convertible" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="228i xDrive" Combined="35" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="228i xDrive Convertible" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="428i Convertible" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="428i xDrive Convertible" Combined="33" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="435i Convertible" Combined="31" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="435i xDrive Convertible" Combined="29" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="640i Convertible" Combined="31" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="640i Coupe" Combined="31" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="640i xDrive Convertible" Combined="29" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="640i xDrive Coupe" Combined="29" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="650i Convertible" Combined="25" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="650i Coupe" Combined="25" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="650i xDrive Convertible" Combined="24" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="650i xDrive Coupe" Combined="25" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M2" Combined="27" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M2" Combined="26" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M235i" Combined="31" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M235i" Combined="28" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M235i Convertible" Combined="31" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M235i Convertible" Combined="26" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M235i xDrive" Combined="30" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M235i xDrive Convertible" Combined="30" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M4 Convertible" Combined="24" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M4 Convertible" Combined="26" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M6 Convertible" Combined="20" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M6 Convertible" Combined="22" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M6 Coupe" Combined="20" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M6 Coupe" Combined="22" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CASCADA" Combined="27" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SPARK" Combined="41" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SPARK" Combined="41" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Fiesta FWD" Combined="37" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Fiesta FWD" Combined="36" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Fiesta SFE FWD" Combined="43" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MUSTANG" Combined="32" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MUSTANG" Combined="31" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MUSTANG" Combined="28" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MUSTANG" Combined="28" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MUSTANG" Combined="25" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MUSTANG" Combined="25" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MUSTANG CONVERTIBLE" Combined="29" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MUSTANG CONVERTIBLE" Combined="24" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SHELBY GT350 MUSTANG" Combined="21" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Genesis Coupe" Combined="25" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Genesis Coupe" Combined="24" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RC 200t" Combined="32" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RC 300 AWD" Combined="26" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RC 350" Combined="28" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RC 350 AWD" Combined="26" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RC F" Combined="25" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GRANTURISMO" Combined="21" Manufacturer="MASERATI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GRANTURISMO CONVERTIBLE" Combined="20" Manufacturer="MASERATI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 400 (convertible)" Combined="29" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 400 (coupe)" Combined="29" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 400 4MATIC (coupe)" Combined="28" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 550 (convertible)" Combined="26" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 550 (coupe)" Combined="26" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MINI COOPER HARDTOP 2 DOOR" Combined="37" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MINI COOPER HARDTOP 2 DOOR" Combined="39" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MINI COOPER HARDTOP 4 DOOR" Combined="37" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MINI COOPER HARDTOP 4 DOOR" Combined="39" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Hardtop 2 door" Combined="33" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Hardtop 2 door" Combined="33" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Hardtop 4 door" Combined="33" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Hardtop 4 door" Combined="33" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MINI John Cooper Works Hardtop" Combined="31" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MINI John Cooper Works Hardtop" Combined="31" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GT-R" Combined="22" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Roush Stage 3 Mustang" Combined="23" Manufacturer="Roush" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Roush Stage 3 Mustang" Combined="23" Manufacturer="Roush" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="iA" Combined="42" Manufacturer="SCION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="iA" Combined="41" Manufacturer="SCION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Beetle Convertible" Combined="34" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Beetle Convertible" Combined="31" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Beetle Convertible" Combined="31" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Eos" Combined="30" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ILX" Combined="36" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TLX 2WD" Combined="35" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TLX 2WD" Combined="34" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TLX 4WD" Combined="31" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A4" Combined="31" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A4 quattro" Combined="30" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A4 quattro" Combined="32" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q3" Combined="29" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q3 quattro" Combined="28" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S4" Combined="28" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S4" Combined="26" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Continental GT" Combined="25" Manufacturer="Bentley" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Continental GT" Combined="21" Manufacturer="Bentley" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="320i" Combined="36" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="320i" Combined="36" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="320i xDrive" Combined="35" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="328d" Combined="42" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="328d xDrive" Combined="40" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="328i" Combined="35" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="328i" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="328i xDrive" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="340i" Combined="33" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="340i" Combined="30" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="340i xDrive" Combined="33" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="340i xDrive" Combined="29" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="428i Coupe" Combined="35" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="428i Coupe" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="428i Gran Coupe" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="428i xDrive Coupe" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="428i xDrive Gran Coupe" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="435i Coupe" Combined="31" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="435i Coupe" Combined="30" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="435i Gran Coupe" Combined="31" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="435i xDrive Coupe" Combined="30" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="435i xDrive Coupe" Combined="28" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="435i xDrive Gran Coupe" Combined="30" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="640i Gran Coupe" Combined="31" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="640i xDrive Gran Coupe" Combined="29" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="650i Gran Coupe" Combined="25" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="650i xDrive Gran Coupe" Combined="24" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Alpina B6 Gran Coupe xDrive" Combined="24" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M3" Combined="24" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M3" Combined="26" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M4 Coupe" Combined="24" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M4 Coupe" Combined="26" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M6 Gran Coupe" Combined="20" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M6 Gran Coupe" Combined="22" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="VERANO" Combined="30" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="VERANO" Combined="31" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="VERANO" Combined="32" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ATS" Combined="31" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ATS" Combined="29" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ATS" Combined="32" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ATS" Combined="30" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ATS AWD" Combined="30" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ATS AWD" Combined="28" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ATS-V" Combined="24" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ATS-V" Combined="23" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CAMARO" Combined="31" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CAMARO" Combined="30" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CAMARO" Combined="28" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CAMARO" Combined="27" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CAMARO" Combined="28" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CAMARO" Combined="25" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CRUZE" Combined="42" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CRUZE" Combined="41" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CRUZE PREMIER" Combined="40" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC" Combined="37" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC" Combined="40" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC" Combined="35" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC" Combined="35" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC RS" Combined="33" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC RS" Combined="34" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Fiesta ST FWD" Combined="33" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FOCUS FWD" Combined="40" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FOCUS FWD" Combined="42" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FOCUS FWD" Combined="40" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FOCUS FWD" Combined="38" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FOCUS FWD" Combined="36" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Focus FWD FFV" Combined="40" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Focus FWD FFV" Combined="38" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Focus FWD FFV" Combined="36" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CIVIC 2Dr" Combined="41" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CIVIC 2Dr" Combined="41" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CIVIC 2Dr" Combined="38" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Accent" Combined="37" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Accent" Combined="38" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Veloster" Combined="33" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Veloster" Combined="36" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Veloster" Combined="33" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Veloster" Combined="35" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q50 HYBRID" Combined="34" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q50 HYBRID AWD" Combined="31" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Forte Koup" Combined="30" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Forte Koup" Combined="29" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Forte Koup" Combined="34" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Forte Koup" Combined="33" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Rio" Combined="37" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Rio" Combined="38" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Rio ECO" Combined="37" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CT 200h" Combined="40" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GS F" Combined="24" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IS 200t" Combined="33" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IS 300 AWD" Combined="26" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IS 350" Combined="28" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IS 350 AWD" Combined="26" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CX-3 2WD" Combined="35" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CX-3 4WD" Combined="32" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA 2" Combined="43" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA 2" Combined="42" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA3 4-Door" Combined="41" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA3 4-Door" Combined="41" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA3 4-Door" Combined="40" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA3 4-Door" Combined="39" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA3 4-Door" Combined="37" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG C 63" Combined="25" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG C 63 S" Combined="25" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG CLA 45 4MATIC" Combined="31" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG CLS 63 S 4MATIC" Combined="22" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG S 63 4MATIC (coupe)" Combined="23" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG S 65 (coupe)" Combined="20" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C 300" Combined="34" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C 300 4MATIC" Combined="31" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C 450 AMG" Combined="29" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CLA 250" Combined="38" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CLA 250 4MATIC" Combined="33" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CLA 250 4MATIC" Combined="33" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CLS 400" Combined="30" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CLS 400 4MATIC" Combined="26" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CLS 550" Combined="26" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CLS 550 4MATIC" Combined="25" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S 550 4MATIC (coupe)" Combined="24" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper Countryman" Combined="30" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper Countryman" Combined="32" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper Paceman" Combined="30" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper Paceman" Combined="32" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Countryman" Combined="32" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Countryman" Combined="32" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Countryman All4" Combined="30" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Countryman All4" Combined="31" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Paceman" Combined="32" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Paceman" Combined="32" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Paceman ALL4" Combined="30" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Paceman ALL4" Combined="31" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini JCW Countryman ALL4" Combined="30" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini JCW Countryman ALL4" Combined="31" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini JCW Paceman ALL4" Combined="30" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini JCW Paceman ALL4" Combined="31" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LANCER" Combined="35" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LANCER" Combined="34" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LANCER" Combined="31" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LANCER" Combined="31" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LANCER 4WD" Combined="31" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="VERSA" Combined="35" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="VERSA" Combined="40" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="VERSA" Combined="36" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Dawn" Combined="19" Manufacturer="Rolls-Royce Motor Cars Limited" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Phantom Coupe" Combined="19" Manufacturer="Rolls-Royce Motor Cars Limited" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Phantom Drophead Coupe" Combined="19" Manufacturer="Rolls-Royce Motor Cars Limited" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="tC" Combined="31" Manufacturer="SCION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="tC" Combined="31" Manufacturer="SCION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IMPREZA" Combined="37" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IMPREZA" Combined="34" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="WRX" Combined="24" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="WRX" Combined="27" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="WRX" Combined="23" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="PRIUS c" Combined="46" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="YARIS" Combined="36" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="YARIS" Combined="37" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Beetle" Combined="34" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Beetle" Combined="34" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Beetle" Combined="31" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Beetle" Combined="31" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Beetle Dune" Combined="31" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CC" Combined="31" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CC" Combined="32" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CC 4Motion" Combined="25" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Golf" Combined="36" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Golf" Combined="37" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Golf R" Combined="30" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Golf R" Combined="31" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GTI" Combined="33" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GTI" Combined="34" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Jetta" Combined="39" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Jetta" Combined="40" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Jetta" Combined="36" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Jetta" Combined="37" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Jetta" Combined="33" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Jetta" Combined="33" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Jetta Hybrid" Combined="48" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S60 AWD" Combined="31" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S60 AWD" Combined="29" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S60 AWD" Combined="27" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S60 CC AWD" Combined="28" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S60 FWD" Combined="38" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S60 FWD" Combined="33" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S60 Inscription AWD" Combined="29" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S60 Inscription FWD" Combined="37" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S60 Polestar AWD" Combined="27" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RLX" Combined="32" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RLX" Combined="31" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A6" Combined="35" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A6 quattro" Combined="32" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A6 quattro" Combined="38" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A6 quattro" Combined="30" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A7 quattro" Combined="38" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A7 quattro" Combined="30" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RS7" Combined="25" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S6" Combined="27" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S7" Combined="27" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S8" Combined="25" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Flying Spur" Combined="24" Manufacturer="Bentley" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Flying Spur" Combined="20" Manufacturer="Bentley" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mulsanne" Combined="18" Manufacturer="Bentley" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="528i" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="528i xDrive" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="535d" Combined="38" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="535d xDrive" Combined="37" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="535i" Combined="31" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="535i xDrive" Combined="29" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="550i" Combined="25" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="550i xDrive" Combined="25" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ActiveHybrid 5" Combined="30" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M5" Combined="20" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="M5" Combined="22" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LACROSSE" Combined="36" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LACROSSE" Combined="28" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LACROSSE" Combined="28" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LACROSSE AWD" Combined="26" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="REGAL" Combined="30" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="REGAL" Combined="31" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="REGAL" Combined="36" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="REGAL" Combined="31" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="REGAL AWD" Combined="27" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CTS SEDAN" Combined="31" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CTS SEDAN" Combined="30" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CTS SEDAN" Combined="24" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CTS SEDAN AWD" Combined="29" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CTS SEDAN AWD" Combined="28" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CTS-V" Combined="21" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CRUZE LIMITED" Combined="38" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CRUZE LIMITED" Combined="38" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CRUZE LIMITED" Combined="35" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CRUZE LIMITED" Combined="36" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CRUZE LIMITED ECO" Combined="39" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CRUZE LIMITED ECO" Combined="42" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Impala Bi-Fuel (CNG)" Combined="25" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MALIBU" Combined="37" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MALIBU" Combined="46" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MALIBU" Combined="33" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MALIBU LIMITED" Combined="34" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC 5 RS" Combined="33" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC 5 RS" Combined="34" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="200" Combined="36" Manufacturer="Chrysler" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="200" Combined="36" Manufacturer="Chrysler" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="200" Combined="32" Manufacturer="Chrysler" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="200 AWD" Combined="29" Manufacturer="Chrysler" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Challenger" Combined="30" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Challenger" Combined="25" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Challenger" Combined="23" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Challenger" Combined="25" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Challenger" Combined="23" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Challenger SRT8" Combined="22" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Challenger SRT8" Combined="21" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Challenger SRT8" Combined="25" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Challenger SRT8" Combined="23" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Dart" Combined="37" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Dart" Combined="34" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Dart" Combined="36" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Dart" Combined="35" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Dart" Combined="35" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Dart Aero" Combined="40" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Dart Aero" Combined="41" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Dart GT" Combined="31" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Dart GT" Combined="33" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FF" Combined="17" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FF" Combined="16" Manufacturer="Ferrari" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FOCUS RS AWD" Combined="25" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Focus ST FWD" Combined="31" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FUSION AWD" Combined="31" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FUSION FWD" Combined="36" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FUSION FWD" Combined="37" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FUSION FWD" Combined="33" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FUSION FWD" Combined="34" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FUSION HYBRID FWD" Combined="41" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ACCORD" Combined="37" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ACCORD" Combined="35" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ACCORD" Combined="34" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ACCORD" Combined="34" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ACCORD" Combined="32" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ACCORD" Combined="28" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CIVIC 4Dr" Combined="42" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CIVIC 4Dr" Combined="41" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CIVIC 4Dr" Combined="40" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Elantra" Combined="38" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Elantra" Combined="37" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Elantra" Combined="35" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Elantra" Combined="34" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Elantra GT" Combined="33" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Elantra GT" Combined="33" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Elantra Limited" Combined="37" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sonata HYBRID" Combined="43" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sonata HYBRID SE" Combined="44" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q50" Combined="31" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q50" Combined="28" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q50 AWD" Combined="28" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q50 AWD" Combined="27" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q50S" Combined="28" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q50S AWD" Combined="26" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q50S AWD Red Sport" Combined="26" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q50S Red Sport" Combined="26" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q70" Combined="26" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q70" Combined="24" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q70 AWD" Combined="24" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q70 AWD" Combined="23" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q70 HYBRID" Combined="34" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XF" Combined="30" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XF AWD" Combined="28" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Forte" Combined="39" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Forte" Combined="37" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Forte" Combined="35" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Optima HYBRID" Combined="40" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Optima HYBRID EX" Combined="39" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ES 300h" Combined="39" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ES 350" Combined="31" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GS 200t" Combined="33" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GS 200t F SPORT" Combined="30" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GS 350" Combined="29" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GS 350 AWD" Combined="26" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GS 350 F SPORT" Combined="28" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GS 450h" Combined="34" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LS 460" Combined="24" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LS 460 AWD" Combined="23" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LS 460 L" Combined="24" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LS 460 L AWD" Combined="23" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LS 600h L" Combined="23" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKZ AWD" Combined="31" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKZ AWD" Combined="24" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKZ FWD" Combined="33" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKZ FWD" Combined="27" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKZ HYBRID FWD" Combined="39" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Ghibli  S RWD" Combined="24" Manufacturer="MASERATI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Ghibli V6 Rear Wheel Drive (RWD)" Combined="24" Manufacturer="MASERATI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Ghibli V6 SQ4 AWD" Combined="24" Manufacturer="MASERATI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA 6" Combined="40" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA 6" Combined="38" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA 6" Combined="37" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA3 5-Door" Combined="40" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA3 5-Door" Combined="40" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA3 5-Door" Combined="39" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA3 5-Door" Combined="37" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAZDA3 5-Door" Combined="35" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG E 63 4MATIC" Combined="23" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG E 63 S 4MATIC" Combined="22" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 250 BLUETEC" Combined="42" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 250 BLUETEC 4MATIC" Combined="38" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 350" Combined="29" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 350" Combined="29" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 350 4MATIC" Combined="28" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 350 4MATIC" Combined="28" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 400" Combined="29" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 400 4MATIC" Combined="28" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 550 4MATIC" Combined="24" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper Clubman" Combined="34" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper Clubman" Combined="35" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Clubman" Combined="34" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Mini Cooper S Clubman" Combined="32" Manufacturer="Mini" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ALTIMA" Combined="39" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ALTIMA 3.5" Combined="32" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ALTIMA SR" Combined="37" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MAXIMA" Combined="30" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SENTRA" Combined="38" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SENTRA" Combined="36" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SENTRA FE+" Combined="40" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Wraith" Combined="21" Manufacturer="Rolls-Royce Motor Cars Limited" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="iM" Combined="37" Manufacturer="SCION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="iM" Combined="36" Manufacturer="SCION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LEGACY" Combined="36" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LEGACY" Combined="29" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AVALON" Combined="31" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AVALON HYBRID" Combined="39" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CAMRY" Combined="35" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CAMRY" Combined="31" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CAMRY HYBRID LE" Combined="39" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CAMRY HYBRID XLE/SE" Combined="38" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COROLLA" Combined="36" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COROLLA" Combined="38" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COROLLA" Combined="37" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COROLLA" Combined="37" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COROLLA LE ECO" Combined="42" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COROLLA LE ECO" Combined="40" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="PRIUS" Combined="50" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="PRIUS Eco" Combined="53" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Passat" Combined="38" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Passat" Combined="28" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S80 FWD" Combined="37" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A8L" Combined="36" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A8L" Combined="29" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A8L" Combined="29" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="A8L" Combined="22" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="328i xDrive Gran Turismo" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="335i xDrive Gran Turismo" Combined="30" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="535i Gran Turismo" Combined="28" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="535i xDrive Gran Turismo" Combined="26" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="740i" Combined="29" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="750i" Combined="25" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="750i xDrive" Combined="25" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X1 xDrive28i" Combined="32" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CT6" Combined="31" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CT6 AWD" Combined="26" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CT6 AWD" Combined="27" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XTS" Combined="28" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XTS AWD" Combined="26" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XTS AWD" Combined="23" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IMPALA" Combined="31" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IMPALA" Combined="28" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IMPALA" Combined="29" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IMPALA LIMITED" Combined="30" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SS" Combined="20" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SS" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="300" Combined="31" Manufacturer="Chrysler" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="300" Combined="31" Manufacturer="Chrysler" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="300" Combined="25" Manufacturer="Chrysler" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="300 AWD" Combined="27" Manufacturer="Chrysler" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="300 AWD" Combined="27" Manufacturer="Chrysler" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Charger" Combined="31" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Charger" Combined="31" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Charger" Combined="25" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Charger" Combined="25" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Charger AWD" Combined="27" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Charger AWD" Combined="27" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Charger SRT8" Combined="22" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Charger SRT8" Combined="25" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C-MAX Hybrid FWD" Combined="37" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Special Service Police FWD" Combined="28" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TAURUS AWD" Combined="24" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TAURUS AWD" Combined="24" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TAURUS AWD FFV" Combined="24" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TAURUS FWD" Combined="29" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TAURUS FWD" Combined="27" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TAURUS FWD FFV" Combined="27" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Azera" Combined="29" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Azera Limited" Combined="28" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Equus" Combined="23" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Genesis AWD" Combined="25" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Genesis RWD" Combined="29" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Genesis RWD" Combined="23" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sonata" Combined="38" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sonata" Combined="32" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sonata" Combined="38" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sonata Limited" Combined="31" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sonata SPORT/LIMITED" Combined="36" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XJ" Combined="27" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XJ" Combined="23" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XJ AWD" Combined="26" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XJL" Combined="27" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XJL" Combined="23" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XJL AWD" Combined="25" Manufacturer="Jaguar" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cadenza" Combined="28" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Forte 5" Combined="29" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Forte 5" Combined="29" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Forte 5" Combined="33" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K900" Combined="26" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K900" Combined="23" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Optima" Combined="39" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Optima" Combined="32" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Optima" Combined="35" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Optima FE" Combined="32" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Optima FE" Combined="37" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKS AWD" Combined="24" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKS AWD" Combined="24" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKS FWD" Combined="26" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QUATTROPORTE GTS" Combined="22" Manufacturer="MASERATI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QUATTROPORTE S" Combined="23" Manufacturer="MASERATI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QUATTROPORTE SQ4 V6" Combined="23" Manufacturer="MASERATI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG S 63 4MATIC" Combined="23" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG S 65" Combined="20" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Maybach S 600" Combined="20" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S 550" Combined="26" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S 550 4MATIC" Combined="26" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="S 600" Combined="21" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Panamera" Combined="28" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Panamera 4" Combined="27" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Panamera 4S" Combined="27" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Panamera 4S Executive" Combined="26" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Panamera GTS" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Panamera S" Combined="27" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Panamera Turbo" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Panamera Turbo Executive" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Panamera Turbo S" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Panamera Turbo S Executive" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Ghost" Combined="21" Manufacturer="Rolls-Royce Motor Cars Limited" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Ghost EWB" Combined="21" Manufacturer="Rolls-Royce Motor Cars Limited" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Phantom" Combined="19" Manufacturer="Rolls-Royce Motor Cars Limited" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Phantom EWB" Combined="19" Manufacturer="Rolls-Royce Motor Cars Limited" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="allroad quattro" Combined="28" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="328d xDrive Sports Wagon" Combined="40" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="328i xDrive Sports Wagon" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC 5" Combined="37" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC 5" Combined="40" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC 5" Combined="35" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SONIC 5" Combined="35" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="500L" Combined="30" Manufacturer="FIAT" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="500L" Combined="33" Manufacturer="FIAT" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FIT" Combined="41" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FIT" Combined="38" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FIT" Combined="37" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QX50" Combined="24" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QX50 AWD" Combined="24" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Soul" Combined="30" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Soul" Combined="30" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Soul" Combined="31" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Soul ECO dynamics" Combined="31" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="JUKE" Combined="32" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="JUKE" Combined="34" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="JUKE AWD" Combined="31" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="JUKE NISMO RS" Combined="31" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="JUKE NISMO RS AWD" Combined="29" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IMPREZA SPORT" Combined="36" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IMPREZA SPORT" Combined="33" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IMPREZA WAGON" Combined="37" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="IMPREZA WAGON" Combined="34" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Golf SportWagen" Combined="35" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Golf SportWagen" Combined="36" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="V60 AWD" Combined="31" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="V60 AWD" Combined="29" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="V60 AWD" Combined="27" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="V60 FWD" Combined="37" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="V60 Polestar AWD" Combined="27" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="V60CC AWD" Combined="28" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG E 63 S 4MATIC (stat. wagon)" Combined="21" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG GLA 45 4MATIC" Combined="29" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="E 350 4Matic (Wagon)" Combined="27" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLA 250" Combined="35" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MURANO AWD" Combined="28" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MURANO FWD" Combined="28" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MURANO Hybrid AWD" Combined="30" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MURANO Hybrid FWD" Combined="31" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="PRIUS v" Combined="40" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COLORADO 2WD" Combined="27" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COLORADO 2WD" Combined="26" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COLORADO 2WD" Combined="31" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COLORADO 2WD" Combined="26" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CANYON 2WD" Combined="27" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CANYON 2WD" Combined="26" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CANYON 2WD" Combined="31" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CANYON 2WD" Combined="26" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FRONTIER 2WD" Combined="23" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FRONTIER 2WD" Combined="23" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FRONTIER 2WD" Combined="22" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FRONTIER 2WD" Combined="22" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TACOMA 2WD" Combined="23" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TACOMA 2WD" Combined="24" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COLORADO 4WD" Combined="25" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COLORADO 4WD" Combined="29" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COLORADO 4WD" Combined="24" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CANYON 4WD" Combined="25" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CANYON 4WD" Combined="29" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CANYON 4WD" Combined="24" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FRONTIER 4WD" Combined="21" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FRONTIER 4WD" Combined="21" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TACOMA 4WD" Combined="22" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TACOMA 4WD" Combined="21" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TACOMA 4WD" Combined="23" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TACOMA 4WD" Combined="21" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Tacoma 4WD Double Cab" Combined="20" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SILVERADO 2WD" Combined="24" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SILVERADO 2WD" Combined="23" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SILVERADO 2WD" Combined="23" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SILVERADO 2WD" Combined="24" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SILVERADO 2WD" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SILVERADO 2WD" Combined="21" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 2.7L 2WD GVWR&gt;6649 LBS PAYLOAD PACKAGE" Combined="24" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 2WD" Combined="26" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 2WD" Combined="24" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 2WD FFV" Combined="25" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 2WD FFV" Combined="22" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 3.5L 2WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combined="22" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 5.0L 2WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combined="20" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SIERRA 2WD" Combined="24" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SIERRA 2WD" Combined="23" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SIERRA 2WD" Combined="23" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SIERRA 2WD" Combined="24" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SIERRA 2WD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SIERRA 2WD" Combined="21" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="1500 4X2" Combined="28" Manufacturer="RAM" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="1500 4X2" Combined="25" Manufacturer="RAM" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="1500 4X2" Combined="20" Manufacturer="RAM" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="1500 4X2" Combined="22" Manufacturer="RAM" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="1500 HFE 4X2" Combined="29" Manufacturer="RAM" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="1500 HFE 4X2" Combined="25" Manufacturer="RAM" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 Pickup 2WD" Combined="15" Manufacturer="Roush" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TUNDRA 2WD" Combined="19" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TUNDRA 2WD" Combined="18" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TUNDRA 2WD FFV" Combined="18" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SILVERADO 4WD" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SILVERADO 4WD" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SILVERADO 4WD" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SILVERADO 4WD" Combined="21" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SILVERADO 4WD" Combined="21" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SILVERADO 4WD" Combined="21" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 2.7L 4WD GVWR&gt;6799 LBS PAYLOAD PACKAGE" Combined="22" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 3.5L 4WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combined="20" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 4WD" Combined="23" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 4WD" Combined="22" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 4WD FFV" Combined="23" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 4WD FFV" Combined="21" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 5.0L 4WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combined="19" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SIERRA 4WD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SIERRA 4WD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SIERRA 4WD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SIERRA 4WD" Combined="21" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SIERRA 4WD" Combined="21" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SIERRA 4WD" Combined="21" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="1500 4X4" Combined="27" Manufacturer="RAM" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="1500 4X4" Combined="23" Manufacturer="RAM" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="1500 4X4" Combined="19" Manufacturer="RAM" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="1500 4X4" Combined="21" Manufacturer="RAM" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="F150 Pickup 4WD" Combined="15" Manufacturer="Roush" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TUNDRA 4WD" Combined="18" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TUNDRA 4WD" Combined="17" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TUNDRA 4WD FFV" Combined="17" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="G2500 EXPRESS 2WD PASS MDPV" Combined="16" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="G3500 EXPRESS 2WD PASS MDPV" Combined="16" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Transit T150 Wagon" Combined="19" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Transit T150 Wagon FFV" Combined="18" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="G2500 SAVANA 2WD PASS MDPV" Combined="16" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="G3500 SAVANA 2WD PASS MDPV" Combined="16" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XTS HEARSE" Combined="21" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XTS LIMO" Combined="21" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="City Express Cargo Van" Combined="26" Manufacturer="CHEVROLET" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Transit Connect Van 2WD" Combined="29" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Transit Connect Van 2WD" Combined="28" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TRANSIT CONNECT VAN FFV" Combined="28" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TRANSIT CONNECT WAGON FFV" Combined="27" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TRANSIT CONNECT WAGON FWD" Combined="29" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TRANSIT CONNECT WAGON FWD" Combined="27" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TRANSIT CONNECT WAGON LWB FFV" Combined="27" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Transit Connect Wagon LWB FWD" Combined="27" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKT LIVERY FWD" Combined="25" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Metris (Cargo Van)" Combined="24" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Metris (Passenger Van)" Combined="23" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="NV200 Cargo Van" Combined="26" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="NV200 NYC Taxi" Combined="26" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Promaster City" Combined="29" Manufacturer="RAM" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKT LIVERY AWD" Combined="23" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SILVERADO 2WD CAB CHASSIS" Combined="20" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="COLORADO CAB CHASSIS 2WD" Combined="17" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SILVERADO 4WD CAB CHASSIS" Combined="19" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C15 SIERRA 2WD CAB CHASSIS" Combined="20" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CANYON CAB CHASSIS 2WD" Combined="17" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K15 SIERRA 4WD CAB CHASSIS" Combined="19" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Town &amp; Country" Combined="25" Manufacturer="Chrysler" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Town &amp; Country" Combined="25" Manufacturer="Chrysler" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Grand Caravan" Combined="25" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Grand Caravan" Combined="25" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ODYSSEY 2WD" Combined="28" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sedona" Combined="24" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sedona SX" Combined="25" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sedona SXL" Combined="22" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QUEST" Combined="27" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SIENNA" Combined="25" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SIENNA AWD" Combined="23" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MDX 2WD" Combined="27" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MDX 2WD" Combined="27" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RDX 2WD" Combined="29" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X3 sDrive 28i" Combined="28" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ENCORE" Combined="34" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ENCORE" Combined="33" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EQUINOX FWD" Combined="32" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EQUINOX FWD" Combined="32" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EQUINOX FWD" Combined="24" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TRAX" Combined="34" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Journey" Combined="26" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Journey" Combined="25" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="500X" Combined="34" Manufacturer="FIAT" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="500X" Combined="31" Manufacturer="FIAT" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EDGE FWD" Combined="30" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EDGE FWD" Combined="30" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EDGE FWD" Combined="26" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ESCAPE FWD" Combined="32" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ESCAPE FWD" Combined="30" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ESCAPE FWD" Combined="31" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TERRAIN FWD" Combined="32" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TERRAIN FWD" Combined="32" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TERRAIN FWD" Combined="24" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CR-V 2WD" Combined="33" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="HR-V 2WD" Combined="35" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="HR-V 2WD" Combined="35" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="HR-V 2WD" Combined="34" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="PILOT 2WD" Combined="27" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="PILOT 2WD" Combined="27" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Santa Fe FWD" Combined="25" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Santa Fe Sport FWD" Combined="27" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Santa Fe Sport FWD" Combined="27" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Santa Fe Sport ULTIMATE FWD" Combined="26" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Santa Fe Ultimate FWD" Combined="23" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Tucson Eco FWD" Combined="33" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Tucson FWD" Combined="30" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Tucson FWD" Combined="31" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QX60 FWD" Combined="27" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QX70 RWD" Combined="24" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cherokee FWD" Combined="31" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cherokee FWD" Combined="31" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cherokee FWD" Combined="29" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Compass FWD" Combined="26" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Compass FWD" Combined="30" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Compass FWD" Combined="28" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Compass FWD" Combined="29" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Patriot FWD" Combined="26" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Patriot FWD" Combined="30" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Patriot FWD" Combined="28" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Patriot FWD" Combined="29" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Renegade 4x2" Combined="31" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Renegade 4x2" Combined="31" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sorento FWD" Combined="27" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sorento FWD" Combined="29" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sorento FWD" Combined="26" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sportage FWD" Combined="28" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sportage SX FWD" Combined="26" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="NX 200t" Combined="28" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="NX 300h" Combined="31" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RX 350" Combined="28" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RX 450h" Combined="30" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKC  FWD" Combined="29" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKX FWD" Combined="26" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKX FWD" Combined="26" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CX-5 2WD" Combined="35" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CX-5 2WD" Combined="33" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLC 300" Combined="28" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="OUTLANDER 2WD" Combined="31" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="OUTLANDER SPORT 2WD" Combined="31" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="OUTLANDER SPORT 2WD" Combined="29" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="OUTLANDER SPORT 2WD" Combined="28" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="PATHFINDER 2WD" Combined="27" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ROGUE FWD" Combined="33" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="HIGHLANDER" Combined="25" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="HIGHLANDER" Combined="25" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RAV4" Combined="30" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RAV4 LE/XLE" Combined="31" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Tiguan" Combined="26" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XC60 FWD" Combined="31" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XC60 FWD" Combined="29" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XC70 FWD" Combined="31" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MDX 4WD" Combined="26" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MDX 4WD" Combined="26" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RDX 4WD" Combined="28" Manufacturer="Acura" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q5" Combined="28" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q5" Combined="31" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q5" Combined="26" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Q5 Hybrid" Combined="30" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SQ5" Combined="24" Manufacturer="Audi" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X3 xDrive28d" Combined="34" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X3 xDrive28i" Combined="28" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X3 xDrive35i" Combined="27" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X4 M40i" Combined="25" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X4 xDrive28i" Combined="28" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X4 xDrive35i" Combined="27" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ENCORE AWD" Combined="32" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ENCORE AWD" Combined="30" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ENVISION AWD" Combined="26" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EQUINOX AWD" Combined="29" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EQUINOX AWD" Combined="29" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EQUINOX AWD" Combined="23" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TRAX AWD" Combined="31" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Journey AWD" Combined="24" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="500X AWD" Combined="30" Manufacturer="FIAT" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EDGE AWD" Combined="28" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EDGE AWD" Combined="24" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EDGE AWD" Combined="25" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ESCAPE AWD" Combined="29" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ESCAPE AWD" Combined="28" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TERRAIN AWD" Combined="29" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TERRAIN AWD" Combined="23" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CR-V 4WD" Combined="31" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="HR-V 4WD" Combined="32" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="HR-V 4WD" Combined="32" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="PILOT 4WD" Combined="26" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="PILOT 4WD" Combined="26" Manufacturer="Honda" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Santa Fe AWD" Combined="24" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Santa Fe Sport AWD" Combined="24" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Santa Fe Sport AWD" Combined="25" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Santa Fe Ultimate AWD" Combined="22" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Tucson AWD" Combined="28" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Tucson AWD" Combined="26" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Tucson Eco AWD" Combined="31" Manufacturer="HYUNDAI MOTOR COMPANY" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QX60 AWD" Combined="26" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QX70 AWD" Combined="22" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cherokee 4X4" Combined="28" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cherokee 4X4" Combined="28" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cherokee 4X4" Combined="28" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cherokee 4x4 Active Drive II" Combined="27" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cherokee 4x4 Active Drive II" Combined="26" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cherokee Trailhawk 4X4" Combined="25" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cherokee Trailhawk 4X4" Combined="26" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Compass 4X4" Combined="26" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Compass 4X4" Combined="23" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Compass 4X4" Combined="27" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Patriot 4X4" Combined="26" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Patriot 4X4" Combined="23" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Patriot 4X4" Combined="27" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Renegade 4x4" Combined="31" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Renegade 4x4" Combined="29" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Wrangler 4X4" Combined="21" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Wrangler 4X4" Combined="21" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Wrangler Unlimited 4X4" Combined="20" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Wrangler Unlimited 4X4" Combined="21" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sorento AWD" Combined="25" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sorento AWD" Combined="26" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sorento AWD" Combined="23" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sorento AWD FE" Combined="26" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sportage AWD" Combined="26" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Sportage SX AWD" Combined="25" Manufacturer="KIA MOTORS CORPORATION" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Discovery Sport" Combined="26" Manufacturer="Land Rover" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Range Rover Evoque" Combined="30" Manufacturer="Land Rover" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="NX 200t AWD" Combined="28" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="NX 200t AWD F SPORT" Combined="27" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="NX 300h AWD" Combined="30" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RX 350 AWD" Combined="26" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKC  AWD" Combined="26" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKC  AWD" Combined="26" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKX AWD" Combined="24" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKX AWD" Combined="23" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CX-5 4WD" Combined="30" Manufacturer="MAZDA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLA 250 4MATIC" Combined="32" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLA 250 4MATIC" Combined="32" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLC 300 4MATIC" Combined="28" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="OUTLANDER 4WD" Combined="29" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="OUTLANDER 4WD" Combined="27" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="OUTLANDER SPORT 4WD" Combined="29" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="OUTLANDER SPORT 4WD" Combined="27" Manufacturer="Mitsubishi Motors Corporation" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="PATHFINDER 4WD" Combined="26" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="PATHFINDER 4WD PLATINUM" Combined="26" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ROGUE AWD" Combined="32" Manufacturer="NISSAN" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Macan S" Combined="23" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Macan Turbo" Combined="23" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CROSSTREK" Combined="34" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CROSSTREK" Combined="31" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="CROSSTREK HYBRID" Combined="34" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FORESTER" Combined="28" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FORESTER" Combined="32" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FORESTER" Combined="29" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="OUTBACK" Combined="33" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="OUTBACK" Combined="27" Manufacturer="Subaru" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RAV4 AWD" Combined="29" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RAV4 HYBRID AWD" Combined="31" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RAV4 Limited AWD/SE AWD" Combined="29" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Tiguan 4Motion" Combined="26" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XC60 AWD" Combined="27" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XC60 AWD" Combined="26" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XC60 AWD" Combined="23" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XC70 AWD" Combined="26" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X5 sDrive35i" Combined="25" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X6 sDrive35i" Combined="25" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ENCLAVE FWD" Combined="22" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ESCALADE 2WD" Combined="22" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SRX" Combined="24" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C1500 SUBURBAN 2WD" Combined="23" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C1500 SUBURBAN 2WD" Combined="23" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C1500 TAHOE 2WD" Combined="23" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C1500 TAHOE 2WD" Combined="23" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TRAVERSE FWD" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Durango RWD" Combined="27" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Durango RWD" Combined="22" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Expedition 2WD" Combined="22" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Expedition EL 2WD" Combined="21" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EXPLORER FFV 2WD" Combined="24" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EXPLORER FWD" Combined="28" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EXPLORER FWD" Combined="24" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Flex FWD" Combined="23" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ACADIA FWD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C1500 YUKON 2WD" Combined="23" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C1500 YUKON 2WD" Combined="23" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C1500 YUKON 2WD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C1500 YUKON XL 2WD" Combined="23" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C1500 YUKON XL 2WD" Combined="23" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="C1500 YUKON XL 2WD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QX60 Hybrid FWD" Combined="28" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QX80 2WD" Combined="20" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Grand Cherokee 4X2" Combined="30" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Grand Cherokee 4X2" Combined="26" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKT FWD" Combined="24" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Navigator 2WD" Combined="22" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Navigator L 2WD" Combined="20" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLE 350" Combined="24" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="4RUNNER 2WD" Combined="22" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SEQUOIA 2WD" Combined="17" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XC90 FWD" Combined="26" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X5 M" Combined="19" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X5 xDrive 35d" Combined="30" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X5 xDrive35i" Combined="24" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X5 xDrive50i" Combined="21" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X6 M" Combined="19" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X6 xDrive35i" Combined="24" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="X6 xDrive50i" Combined="21" Manufacturer="BMW" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ENCLAVE AWD" Combined="22" Manufacturer="Buick" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ESCALADE 4WD" Combined="21" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SRX AWD" Combined="23" Manufacturer="Cadillac" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K1500 SUBURBAN 4WD" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K1500 SUBURBAN 4WD" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K1500 TAHOE 4WD" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K1500 TAHOE 4WD" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="TRAVERSE AWD" Combined="22" Manufacturer="Chevrolet" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Durango AWD" Combined="25" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Durango AWD" Combined="22" Manufacturer="Dodge" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Expedition 4WD" Combined="20" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Expedition EL 4WD" Combined="20" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EXPLORER AWD" Combined="26" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EXPLORER AWD" Combined="22" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EXPLORER AWD" Combined="23" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="EXPLORER FFV AWD" Combined="23" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FLEX AWD" Combined="22" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="FLEX AWD" Combined="21" Manufacturer="Ford" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="ACADIA AWD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K1500 YUKON 4WD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K1500 YUKON 4WD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K1500 YUKON 4WD" Combined="21" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K1500 YUKON XL 4WD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K1500 YUKON XL 4WD" Combined="22" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="K1500 YUKON XL 4WD" Combined="20" Manufacturer="GMC" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QX60 Hybrid AWD" Combined="28" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="QX80 4WD" Combined="19" Manufacturer="INFINITI" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Grand Cherokee 4X4" Combined="28" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Grand Cherokee 4X4" Combined="25" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Grand Cherokee 4X4" Combined="22" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Grand Cherokee SRT8 4x4" Combined="19" Manufacturer="Jeep" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LR4" Combined="19" Manufacturer="Land Rover" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Range Rover" Combined="23" Manufacturer="Land Rover" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Range Rover" Combined="19" Manufacturer="Land Rover" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Range Rover LWB" Combined="23" Manufacturer="Land Rover" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Range Rover LWB" Combined="19" Manufacturer="Land Rover" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Range Rover Sport" Combined="23" Manufacturer="Land Rover" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Range Rover Sport" Combined="19" Manufacturer="Land Rover" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Range Rover Sport TDV6" Combined="29" Manufacturer="Land Rover" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Range Rover TDV6" Combined="29" Manufacturer="Land Rover" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GX 460" Combined="20" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LX 570" Combined="18" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="RX 450h AWD" Combined="28" Manufacturer="LEXUS" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="MKT AWD" Combined="21" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Navigator 4WD" Combined="20" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Navigator L 4WD" Combined="19" Manufacturer="Lincoln" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG G 63" Combined="14" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG G65" Combined="13" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG GL 63" Combined="17" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG GLE 63" Combined="17" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG GLE 63 S" Combined="17" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="AMG GLE 63 S (coupe)" Combined="18" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="G 550" Combined="14" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GL 350 BLUETEC 4MATIC" Combined="26" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GL 450 4MATIC" Combined="21" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GL 550 4MATIC" Combined="18" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLE 300 d 4MATIC" Combined="29" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLE 350 4MATIC" Combined="22" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLE 350 4MATIC" Combined="22" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLE 350 d 4MATIC" Combined="30" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLE 400 4MATIC" Combined="22" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="GLE 450 AMG (coupe)" Combined="23" Manufacturer="Mercedes-Benz" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayenne" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayenne Diesel" Combined="29" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayenne GTS" Combined="23" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayenne S" Combined="24" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayenne Turbo" Combined="21" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Cayenne Turbo S" Combined="21" Manufacturer="Porsche" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="4RUNNER 4WD" Combined="21" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="4RUNNER 4WD" Combined="21" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="HIGHLANDER AWD" Combined="24" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="HIGHLANDER HYBRID AWD" Combined="28" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="HIGHLANDER HYBRID AWD LE Plus" Combined="28" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="LAND CRUISER WAGON 4WD" Combined="18" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SEQUOIA 4WD" Combined="17" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="SEQUOIA 4WD FFV" Combined="17" Manufacturer="TOYOTA" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Touareg" Combined="29" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="Touareg" Combined="23" Manufacturer="Volkswagen" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XC90 AWD" Combined="25" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+  <Car Name="XC90 AWD" Combined="25" Manufacturer="Volvo" xmlns="http://pluralsight.com/cars/2016/ex" />
+</Car>
